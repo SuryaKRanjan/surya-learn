@@ -1,1 +1,1 @@
-file created on branch1`
+file created on branch1 for conlict scenario`
